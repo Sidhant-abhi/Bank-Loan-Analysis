@@ -55,9 +55,10 @@ campaigns to capitalize on strong demand.
 motivations and tailor loan offerings accordingly.
 
 **DASHBOARD 1** - (SUMMARY)
-
+![R1](https://github.com/Sidhant-abhi/Bank-Loan-Analysis/assets/146129693/531a565e-18a3-4e3f-944c-ac9799ff268f)
 
 **DASHBOARD 2 - (OVERVIEW)**
-
+![R@](https://github.com/Sidhant-abhi/Bank-Loan-Analysis/assets/146129693/b57cf898-8be3-4436-9daa-86b4ff17fd15)
 
 DASHBOARD 3 - (DETAILS)
+![R3](https://github.com/Sidhant-abhi/Bank-Loan-Analysis/assets/146129693/6fdd1f49-4c32-41ff-8ae2-3c7d1a15f163)

@@ -56,10 +56,8 @@ motivations and tailor loan offerings accordingly.
 
 **DASHBOARD 1** - (SUMMARY)
 
-![R1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/74bae97b-959f-4882-99d4-086c0a0ef929/0143a7ba-68de-48b1-b667-487fae98c247/R1.png)
 
 **DASHBOARD 2 - (OVERVIEW)**
 
-![R@.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/74bae97b-959f-4882-99d4-086c0a0ef929/1e8f38cf-b2bd-4802-a068-bc0e040a4a4f/R.png)
 
 DASHBOARD 3 - (DETAILS)

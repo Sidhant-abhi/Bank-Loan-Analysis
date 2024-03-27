@@ -1,5 +1,4 @@
 # Bank-Loan-Analysis
-# Bank Loan Report
 
 DASHBOARD 🔗 :
 
